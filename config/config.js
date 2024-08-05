@@ -19,7 +19,7 @@ Config.whitelist = [
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'thetrainercorner',
-	host: 'sim.pokemonnext.com',
+	host: 'sim.pokemonnext.net',
 	port: 8000,
 	httpport: 80,
 	altport: 80,
